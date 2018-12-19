@@ -38,7 +38,7 @@ python3 app.py
 		* Action: Display game menu
 
 	* Input: "info"
-		* Action: Display this infomaiton of app
+		* Action: Display infomaiton of this app
 		
 	* Input: "anime"
 		* Action: Get a random anime
